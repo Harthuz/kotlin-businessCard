@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">bussinesCard</string>
+    <string name="logo_do_android">Logo do android</string>
+    <string name="android_logo">Android Logo</string>
+    <string name="nome_completo">Hernandes Arthur</string>
+    <string name="funcao">Desenvolvedor e Analista de Sistemas</string>
+    <string name="imagem_de_um_telefone">Imagem de um telefone</string>
+    <string name="numero_telefone">(11) 91746-5274</string>
+    <string name="username">\@Harthuz</string>
+    <string name="nome_de_usuario">Nome de usuário</string>
+    <string name="email">hernandeshass910@gmail.com</string>
+    <string name="email_do_usuario">Email do usuário</string>
+</resources>
