@@ -1,4 +1,4 @@
-# Documentação do Business Card App
+# Business Card App
 
 ## Visão Geral
 O **Business Card App** é um aplicativo desenvolvido em **Jetpack Compose** para exibir um **cartão de visita digital**. O aplicativo mostra informações básicas, como nome, função e contatos (telefone, username e e-mail), organizadas de maneira responsiva.
